@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Prayatna/static/css/main.cf78da19.css",
+    "main.js": "/Prayatna/static/js/main.19cec9c4.js",
+    "static/js/453.b21437c2.chunk.js": "/Prayatna/static/js/453.b21437c2.chunk.js",
+    "static/media/authentication.jpg": "/Prayatna/static/media/authentication.cf39a7f852fbf77ac979.jpg",
+    "static/media/blog.jpg": "/Prayatna/static/media/blog.5d43f217fa063ae5f1de.jpg",
+    "static/media/developer.jpg": "/Prayatna/static/media/developer.33f404bdb4fbd3a26274.jpg",
+    "static/media/mobilePortfolio.jpg": "/Prayatna/static/media/mobilePortfolio.50dd8735ed0683f89ffe.jpg",
+    "static/media/helmet.jpg": "/Prayatna/static/media/helmet.4ee0fd324d719f515bdf.jpg",
+    "static/media/contact.jpg": "/Prayatna/static/media/contact.888582f8376ad133a756.jpg",
+    "static/media/Android.png": "/Prayatna/static/media/Android.ef1f00b76202dd1a5e0a.png",
+    "static/media/css.png": "/Prayatna/static/media/css.02d225c7df0b28341d8d.png",
+    "static/media/MongoDB.png": "/Prayatna/static/media/MongoDB.b723bb18907da666f951.png",
+    "static/media/figma.png": "/Prayatna/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/photoshop.png": "/Prayatna/static/media/photoshop.339f174c692e921a204a.png",
+    "static/media/html.png": "/Prayatna/static/media/html.b0d7d14d784cd8e11873.png",
+    "static/media/Java.png": "/Prayatna/static/media/Java.00c3be7f346b2c00213d.png",
+    "static/media/illustrator.png": "/Prayatna/static/media/illustrator.c8306d9279929e8b8cfe.png",
+    "static/media/React.png": "/Prayatna/static/media/React.98ff38735baa4c1b0381.png",
+    "index.html": "/Prayatna/index.html",
+    "main.cf78da19.css.map": "/Prayatna/static/css/main.cf78da19.css.map",
+    "main.19cec9c4.js.map": "/Prayatna/static/js/main.19cec9c4.js.map",
+    "453.b21437c2.chunk.js.map": "/Prayatna/static/js/453.b21437c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf78da19.css",
+    "static/js/main.19cec9c4.js"
+  ]
+}
